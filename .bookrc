@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "The Cossacks: A Tale of 1852",
-  "type": "text"
+  "name": "The Cossacks - A Tale of 1852",
+  "type": "text",
+  "book_id": 457
 }
